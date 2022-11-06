@@ -71,7 +71,9 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Kallatra Parivar is a group of diversified business houses founded by Late Kallatra Abdul Khader Haji in Kerala.
+The group has diversified business activities ranging from Plantation to Infrastructure development. The group is now managed by the children of Late Kallatra Abdul Khader Haji in the most professional manner.
+To name a few are the Kanhangad Plantation Pvt Ltd, Kallatra wood industries, Kallatra Shipbuilders, Hospitality ventures, Perfume Manufacturing, Concord Construction, Kallatra Dry Fruits, and Kallatra Technologies (GPS System). Our other two subsidiaries are Bombay Trading Company and Abdul Khader Haji Ebrahim Company. The Kallatra house is more than 120 years old, and we can proudly say that the Kallatra Group is running on its 5th generation now."
     section: about
 
   clients:
