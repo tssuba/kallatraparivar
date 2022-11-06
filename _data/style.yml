@@ -5,4 +5,5 @@
 
 #Image Customization
 header-image: "../img/header-bg.jpeg"
+# header-image: "../img/map-image.png"
 contact-image: "../img/map-image.png"
