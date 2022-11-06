@@ -18,9 +18,9 @@ url    : "kallatraparivar.com" # the base hostname & protocol for your site, e.g
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Kallatra Parivar
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : info@kallatraparivar.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+author     : AQJ
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
