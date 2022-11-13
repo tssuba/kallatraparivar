@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "Timeline"
-      section: timeline
+    # - title: "Timeline"
+    #   section: timeline
     # - title: "Team"
     #   section: team
     # - title: "Contact"
@@ -44,8 +44,8 @@ es: &DEFAULT_ES
       section: servicios
     - title: "Portafolio"
       section: portafolio
-    - title: "Cronología"
-      section: cronologia
+    # - title: "Cronología"
+    #   section: cronologia
     # - title: "Equipo"
     #   section: equipo
     # - title: "Contáctenos"
